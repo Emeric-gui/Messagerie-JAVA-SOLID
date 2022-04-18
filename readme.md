@@ -57,5 +57,5 @@
 
     Pour fermer le serveur : appuyer sur le bouton carré rouge d'IntelliJ.
 ## 3.Auteurs
-    Emeric GUICHET GUIE05040007
-    Loïc DUPUIS DUPL15050000
+    Emeric GUICHET
+    Loïc DUPUIS 
